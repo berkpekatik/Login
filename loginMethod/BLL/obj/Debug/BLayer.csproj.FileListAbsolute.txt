@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\BLL.dll
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\BLL.pdb
+C:\Users\User\source\repos\loginMethod\BLL\obj\Debug\BLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\loginMethod\BLL\obj\Debug\BLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\loginMethod\BLL\obj\Debug\BLL.dll
+C:\Users\User\source\repos\loginMethod\BLL\obj\Debug\BLL.pdb
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\Database.mdb
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\DAL.dll
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\loginMethod\BLL\bin\Debug\DAL.dll.config
